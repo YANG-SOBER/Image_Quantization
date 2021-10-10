@@ -13,4 +13,4 @@ For a optimal image encoding: use the quantization that minimize the rounding er
 
 <img src="https://github.com/YANG-SOBER/Image_Quantization/blob/main/img_hist.png" width=75% height=75%>
 
-We can find that **with the increment of number of discrete values, the rounding error will get smaller**.
+We can see that **with the increment of number of discrete values, the rounding error will get smaller**.
